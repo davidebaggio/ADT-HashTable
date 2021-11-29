@@ -1,0 +1,1 @@
+This repositories contains a simple ADT-HashTable using arrays.
